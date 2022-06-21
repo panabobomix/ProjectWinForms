@@ -33,7 +33,6 @@ namespace LsiApp
 	                    Lokal varchar(255) NOT NULL,
    
                     );
-
             Dane w bazie zostały uzupełnione poprzez edycje tabeli w narzędziu MSSQL
 
          */
